@@ -1,0 +1,6 @@
+{
+  "project_name": "API",
+  "project_root": "app",
+  "project_description": "Base test of api microservice.",
+  "version": "1.0.0"
+}
