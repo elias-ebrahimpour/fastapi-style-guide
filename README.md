@@ -15,7 +15,7 @@ cookiecutter https://github.com/elias-ebrahimpour/fastapi-style-guide.git
 ```
 or
 ```
-cookiecutter https://github.com/elias-ebrahimpour/fastapi-style-guide.git
+cookiecutter git@github.com:elias-ebrahimpour/fastapi-style-guide.git
 ```
 
 * It's possible when you install cookiecutter, it don't work as expected.
